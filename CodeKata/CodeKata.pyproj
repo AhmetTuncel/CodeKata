@@ -23,6 +23,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Even_or_Odd_Kata.py" />
+    <Compile Include="Square Every Digit_Kata.py" />
     <Compile Include="Sum_of_positive_Kata.py" />
   </ItemGroup>
   <PropertyGroup>
