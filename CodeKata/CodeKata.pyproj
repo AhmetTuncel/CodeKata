@@ -22,6 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Machine_Learning_Recipes_ScarppyKNN.py" />
     <Compile Include="Remove_String_Spaces_Kata.py" />
     <Compile Include="Even_or_Odd_Kata.py" />
     <Compile Include="Square Every Digit_Kata.py" />
