@@ -30,6 +30,7 @@
     <Compile Include="Square Every Digit_Kata.py" />
     <Compile Include="Geometry_Basics_Distance_between_points_in_2D_Kata.py" />
     <Compile Include="Grasshopper_Terminal _game_combat_function_Kata.py" />
+    <Compile Include="Counting_sheep_Kata.py" />
     <Compile Include="Sum_without_highest_and_lowest_number_Kata.py" />
     <Compile Include="Sum_of_positive_Kata.py" />
   </ItemGroup>
