@@ -24,6 +24,7 @@
   <ItemGroup>
     <Compile Include="7_Rank\Get_The_Middle_Character_Kata.py" />
     <Compile Include="7_Rank\Highest_And_Lowest_Kata.py" />
+    <Compile Include="7_Rank\Jaden_Casing_Strings_Kata.py" />
     <Compile Include="7_Rank\Vowel_Count_Kata.py" />
     <Compile Include="7_Rank\Mumbling_Kata.py" />
     <Compile Include="8_Rank\Convert_number_to_reversed_array_of_digits_Kata.py" />
