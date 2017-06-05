@@ -22,6 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="7_Rank\Complementary DNA_Kata.py" />
     <Compile Include="7_Rank\Get_The_Middle_Character_Kata.py" />
     <Compile Include="7_Rank\Highest_And_Lowest_Kata.py" />
     <Compile Include="7_Rank\Jaden_Casing_Strings_Kata.py" />
