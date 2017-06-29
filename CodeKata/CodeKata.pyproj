@@ -23,6 +23,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="7_Rank\Beginner_Series_Number_3_Sum_of_Numbers.py" />
+    <Compile Include="7_Rank\Shortest_Word_Kata.py" />
     <Compile Include="7_Rank\Complementary DNA_Kata.py" />
     <Compile Include="7_Rank\Get_The_Middle_Character_Kata.py" />
     <Compile Include="7_Rank\Highest_And_Lowest_Kata.py" />
