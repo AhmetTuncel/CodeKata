@@ -29,6 +29,7 @@
     <Compile Include="7_Rank\Jaden_Casing_Strings_Kata.py" />
     <Compile Include="7_Rank\Descending_Order_Kata.py" />
     <Compile Include="7_Rank\Disemvowel Trolls_Kata.py" />
+    <Compile Include="7_Rank\Exes_And_Ohs_Kata.py" />
     <Compile Include="7_Rank\Vowel_Count_Kata.py" />
     <Compile Include="7_Rank\Mumbling_Kata.py" />
     <Compile Include="8_Rank\Convert_number_to_reversed_array_of_digits_Kata.py" />
