@@ -7,12 +7,13 @@ String will never be empty and you do not need to account for different data typ
 
 
 def find_short(s):
-    sList = s.split()
-    shortestLength = len(sList[0])
-    for item in sList:
-        if len(item) < shortestLength:
-            shortestLength = len(item)
-    return shortestLength
+    slst = s.split()
+    shrtl = len(slst[0])
+    for i in slst:
+        if len(i) < shrtl:
+            shrtl = len(i)
+    return shrtl
+ 
 
 
 
