@@ -38,7 +38,10 @@
     </Compile>
     <Compile Include="8_Rank\Convert_number_to_reversed_array_of_digits_Kata.py" />
     <Compile Include="8_Rank\Opposite number_Kata.py" />
-    <Compile Include="8_Rank\Machine_Learning_Recipes_ScarppyKNN.py" />
+    <Compile Include="UnRated\First_URL_Appears.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UnRated\Machine_Learning_Recipes_ScarppyKNN.py" />
     <Compile Include="8_Rank\Remove_String_Spaces_Kata.py" />
     <Compile Include="8_Rank\Even_or_Odd_Kata.py" />
     <Compile Include="7_Rank\Square Every Digit_Kata.py" />
@@ -51,6 +54,7 @@
   <ItemGroup>
     <Folder Include="8_Rank\" />
     <Folder Include="7_Rank\" />
+    <Folder Include="UnRated\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
