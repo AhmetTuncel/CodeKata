@@ -25,6 +25,7 @@
     <Compile Include="7_Rank\Beginner_Series_Number_3_Sum_of_Numbers.py" />
     <Compile Include="7_Rank\Growth_Of_A_Population_Kata.py" />
     <Compile Include="7_Rank\Find_the_next_perfect_square_Kata.py" />
+    <Compile Include="7_Rank\Is_This_A_Triangle_Kata.py" />
     <Compile Include="7_Rank\Sum_Of_Two_Lowest_Positive_Integers_Kata.py" />
     <Compile Include="7_Rank\Isograms_Kata.py" />
     <Compile Include="7_Rank\Next_Perfect_Square_Kata.py" />
