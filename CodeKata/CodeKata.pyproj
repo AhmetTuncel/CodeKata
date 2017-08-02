@@ -24,6 +24,8 @@
   <ItemGroup>
     <Compile Include="6_Rank\Find_The_Odd_Int_Kata.py" />
     <Compile Include="6_Rank\Array_diff_Kata.py" />
+    <Compile Include="6_Rank\Delete_nth_Kata.py" />
+    <Compile Include="6_Rank\In_Array_Kata.py" />
     <Compile Include="6_Rank\Multiples_Of_3_And_5_Kata.py" />
     <Compile Include="6_Rank\Unique_In_Order_Kata.py" />
     <Compile Include="6_Rank\Sum_of_Digits_Digital_Root_Kata.py" />
