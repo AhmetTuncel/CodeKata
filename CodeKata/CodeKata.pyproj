@@ -22,6 +22,8 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="6_Rank\Find_The_Missing_Letter_Kata.py" />
+    <Compile Include="6_Rank\Sort_The_Odd_Kata.py" />
     <Compile Include="6_Rank\Find_The_Odd_Int_Kata.py" />
     <Compile Include="6_Rank\Array_diff_Kata.py" />
     <Compile Include="6_Rank\Delete_nth_Kata.py" />
