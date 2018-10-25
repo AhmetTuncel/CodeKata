@@ -32,6 +32,7 @@
     <Compile Include="6_Rank\Multiples_Of_3_And_5_Kata.py" />
     <Compile Include="6_Rank\Unique_In_Order_Kata.py" />
     <Compile Include="6_Rank\Sum_of_Digits_Digital_Root_Kata.py" />
+    <Compile Include="6_Rank\Persistent_Bugger..py" />
     <Compile Include="6_Rank\Who_likes_it_Kata.py" />
     <Compile Include="6_Rank\Replace_With_Alphabet_Position_Kata.py" />
     <Compile Include="7_Rank\Beginner_Series_Number_3_Sum_of_Numbers.py" />
