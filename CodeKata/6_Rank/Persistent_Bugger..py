@@ -11,5 +11,3 @@ def persistence(n):
       val = reduce(operator.mul, map(int, str(n)))
       x = 1 + persistence(val)
     return x
-
-#print (accum("ZpglnRxqenU"))
